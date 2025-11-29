@@ -1,5 +1,5 @@
 -- Blue Hub V6.2 Troll Players Fling Couch + Skybox/Planking (com aba Sound + botão Parar Música já aplicado + RolePlayName/RolePlayBio com cores aplicadas)
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kiwilegazin/Redz-lib-v5/refs/heads/main/README.md"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Lindao10/Redzlib-cor-neo/refs/heads/main/RedzHubUI_NeoBlack_COMPLETO_EDITADO.lua",true))()
 local Window = Library:MakeWindow({
     Title = "Blue Hub - Brookhaven 🏡RP",
     SubTitle = "by GuzTer_666 And Anomino666",
